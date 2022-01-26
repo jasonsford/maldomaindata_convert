@@ -1,0 +1,4 @@
+
+bad.tld
+test.xyz
+malware.org
